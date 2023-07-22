@@ -1,0 +1,6 @@
+package main_test
+
+func main_test() {
+	main_test
+
+}
